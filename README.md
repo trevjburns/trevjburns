@@ -8,4 +8,6 @@
 - 💬 Ask me about... stonks only going up :rocket:
 - 📫 How to reach me: [trevjburns@gmail.com](mailto:trevjburns@gmail.com)
 
+![Trevor's GitHub stats](https://github-readme-stats.vercel.app/api?username=trevjburns&count_private=true&show_icons=true&theme=dark)
+
 ![counter](https://enva314gou5svwc.m.pipedream.net)
