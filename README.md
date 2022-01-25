@@ -1,8 +1,8 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on... software products related to GPS tracking
-- 🌱 I’m currently learning... modern javascript frameworks (Vue and React), GraphQL, and Node.js
+- 🔭 I’m currently working on... modernizing existing web applications (using Vue.js and C#)
+- 🌱 I’m currently learning... python web applications and deepening my knowledge of system design
 - 👯 I’m looking to collaborate on... any interesting projects!
 - 📫 How to reach me: [trevjburns@gmail.com](mailto:trevjburns@gmail.com)
 
